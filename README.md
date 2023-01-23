@@ -1,6 +1,6 @@
 # Project Covid Tableau
 
-In this project I make a dashboard in Tableau of the Covid 19 dataset where we look to show some important subjects.
+In this project I make a dashboard in Tableau of the Covid 19 dataset where we look to show some important topics.
 
 
 - If you want to see the Dashboard: [Link - Tableau](https://public.tableau.com/app/profile/nicolas.klaver/viz/Project_Covid_16740827288160/Dashboard1)
